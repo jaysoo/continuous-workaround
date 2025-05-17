@@ -1,0 +1,10 @@
+{
+  "targets": {
+    "dev": {
+      "continuous": false
+    },
+    "preview": {
+      "continuous": false
+    }
+  }
+}

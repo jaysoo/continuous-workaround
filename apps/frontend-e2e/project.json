@@ -1,0 +1,7 @@
+{
+  "targets": {
+    "e2e": {
+      "dependsOn": []
+    }
+  }
+}
